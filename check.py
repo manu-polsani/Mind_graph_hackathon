@@ -77,7 +77,7 @@ grap = pd.read_csv("count.csv")
 with fig_col1:
         st.markdown("### Analysis using Plotly dash")
         fig = px.density_heatmap(
-            data_frame=grap, y="Count", x="Columns"
+            data_frame=grap, y="count", x="columns",
         )
         st.write(fig)
 
