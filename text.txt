@@ -1,7 +1,0 @@
-# Dependencies 
-
-1)Numpy
-2)Pandas
-3)fuzzywuzzy
-4)streamlit
-5)plotly.express

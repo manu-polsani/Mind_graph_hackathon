@@ -1,0 +1,5 @@
+Numpy
+Pandas
+fuzzywuzzy
+streamlit
+plotly.express
